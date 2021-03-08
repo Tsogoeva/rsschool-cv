@@ -38,4 +38,4 @@ function squareDigits(num){
   - No working experience yet (only courses projects)
 
 ## English: ## 
-  - B2
+  - A2
