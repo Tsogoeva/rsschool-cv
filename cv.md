@@ -1,8 +1,7 @@
-# rsschool-cv # 
-
----
 
 ## Tsogoeva Tatiana ##
+
+---
 
 ## Contact Info: ##
   + 7985 876 19 67
@@ -36,7 +35,7 @@ function squareDigits(num){
 ```
 
 ## Experiense: ##
-  - No working experience (only courses projects)
+  - No working experience yet (only courses projects)
 
 ## English: ## 
   - B2
